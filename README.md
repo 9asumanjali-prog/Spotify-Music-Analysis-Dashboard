@@ -1,5 +1,4 @@
-# Spotify-Music-Analysis-Dashboard
-# 🎵 Spotify Music Analytics Dashboard
+#🎧🟢 Spotify-Music-Analysis-Dashboard
 
 ## 📊 Spotify Music Analytics – Business Insights Dashboard
 
@@ -11,7 +10,7 @@ The dashboard transforms raw Spotify data into an engaging dark-themed visual ex
 
 ## 🖥️ Dashboard Preview
 
-[Dashboard]
+![Dashboard](https://github.com/9asumanjali-prog/Spotify-Music-Analysis-Dashboard/blob/main/Snapshot%20of%20Spotify.png)
 
 ---
 
@@ -155,19 +154,20 @@ Although the dataset is music-focused, the project demonstrates practical **Busi
 
 ---
 
-## 🎨 Dashboard Design
+## 🎨 Custom Dashboard Design
 
-The dashboard uses a **modern dark/neon-inspired Spotify theme** featuring:
+The **entire dashboard theme and visual design were independently created by me** to provide a unique, modern, and engaging music analytics experience.
 
-* Dark background
-* Spotify-inspired green branding
-* Purple and pink visual accents
-* Interactive navigation
-* Music-focused visual elements
-* Clean KPI cards
-* Interactive charts and filters
+### Design Highlights
 
-The design was created to provide a visually engaging experience while maintaining analytical clarity.
+* 🎨 **Custom-designed dark/neon theme**
+* 🟢 Custom Spotify-inspired branding and visual identity
+* 💜 Purple, pink, and neon visual accents
+* 🎵 Music-focused UI elements and layout
+* 📊 Custom-designed KPI cards and visual containers
+* 🎛️ Interactive navigation, filters, and selections
+* ✨ Custom visual styling to create a modern dashboard experience
+* 🖥️ Designed specifically for an immersive and user-friendly Power BI experience
 
 ---
 
@@ -193,17 +193,30 @@ This project demonstrates practical experience in:
 ## 🚀 Project Workflow
 
 **Raw Spotify Dataset**
+
 ⬇️
+
 **Data Cleaning & Transformation – Power Query**
+
 ⬇️
+
 **Data Modeling**
+
 ⬇️
+
 **DAX Measures & KPIs**
+
 ⬇️
+
 **Interactive Visualizations**
+
 ⬇️
+
+
 **Spotify Music Analytics Dashboard**
+
 ⬇️
+
 **Insights & Trend Analysis**
 
 ---
@@ -218,8 +231,10 @@ This project showcases my ability to turn raw datasets into **clear, interactive
 
 ## 👩‍💻 Author
 
-**Sumanjali**
+ A.Sumanjali
 
-**Data Analytics | Power BI | SQL | Python | Data Visualization**
+**Data Analytics | Power BI | Data Visualization 
+
+**Note:** The dashboard's visual theme, layout, styling, and overall UI design were independently conceptualized and created by me.
 
 #PowerBI #DataAnalytics #Spotify #Dashboard #DAX #PowerQuery #BusinessIntelligence #DataVisualization
